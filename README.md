@@ -5,7 +5,7 @@ Rec Studio のソースコードは非公開で、このリポジトリには置
 
 ## ダウンロード
 
-[Releases](https://github.com/ktysne/rec-studio-releases/releases) から、最新版の `RecStudio-<版>-win64.zip` をダウンロードしてください。
+[Releases](https://github.com/ktysne/rec-studio-releases/releases) から、最新版の `RecStudio-<バージョン>-win64.zip` をダウンロードしてください。
 
 各 Release に付いている「Source code (zip)」「Source code (tar.gz)」は GitHub が自動で付けるもので、中身はこのリポジトリ(この README だけ)です。
 アプリは入っていません。
